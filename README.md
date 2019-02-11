@@ -14,7 +14,8 @@ The Pi gets mounted with hex brass standoffs.
 ![Raspi-Piano-Complete2](img/case-img-complete2.png)
 
 **Pi & Piano**
-![Raspi-Piano](foto-rpi-piano.jpg)
+![Raspi-Piano](img/foto-rpi-piano.jpg)
+
 -----------
 **Front**
 ![Raspi-Piano-Front](img/case-img_complete-front.png)
