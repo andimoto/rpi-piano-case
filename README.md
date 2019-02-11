@@ -1,21 +1,29 @@
 # FreeCAD model for Raspberry Pi 3B+
 
 This is a Raspberry Pi 3B+ with a Allo Piano DAC.
+The Pi gets mounted with hex brass standoffs.
 3D-print-it!!
 
+**Case**
 ![Raspi-Piano-Case](img/case-img.png)
+**Cap**
 ![Raspi-Piano-Case-Cap](img/case-img-cap.png)
+
+**Complete**
 ![Raspi-Piano-Complete](img/case-img-complete.png)
 ![Raspi-Piano-Complete2](img/case-img-complete2.png)
 
-*Front*
+**Pi & Piano**
+![Raspi-Piano](foto-rpi-piano.jpg)
+-----------
+**Front**
 ![Raspi-Piano-Front](img/case-img_complete-front.png)
-*Right*
+**Right**
 ![Raspi-Piano-Right](img/case-img_complete-right.png)
-*Bottom*
+**Bottom**
 ![Raspi-Piano-Bottom](img/case-img_complete-bottom.png)
 
-*Mounting Holes*
+**Mounting Holes**
 ![Raspi-Piano-MountHoles](img/case-img-mount-holes.png)
 
 # LICENSE
