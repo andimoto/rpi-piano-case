@@ -5,7 +5,18 @@ This is a Raspberry Pi 3B+ with a Allo Piano DAC.
 
 ![Raspi-Piano-Case](img/case-img.png)
 ![Raspi-Piano-Case-Cap](img/case-img-cap.png)
+![Raspi-Piano-Complete](img/case-img-complete.png)
+![Raspi-Piano-Complete2](img/case-img-complete2.png)
 
+*Front*
+![Raspi-Piano-Front](img/case-img_complete-front.png)
+*Right*
+![Raspi-Piano-Right](img/case-img_complete-right.png)
+*Bottom*
+![Raspi-Piano-Bottom](img/case-img_complete-bottom.png)
+
+*Mounting Holes*
+![Raspi-Piano-MountHoles](img/case-img-mount-holes.png)
 
 # LICENSE
 
