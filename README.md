@@ -4,9 +4,13 @@ This is a Raspberry Pi 3B+ with a Allo Piano DAC case.
 The Pi gets mounted with hex brass standoffs.
 3D-print-it!!
 
+-----------
 ## STL downloads
-![Case](rpi-piano-case.stl)
-![Cap](rpi-piano-cap.stl)
+Download:
+![STL File: Case](rpi-piano-case.stl)
+
+![STL File: Cap](rpi-piano-cap.stl)
+-----------
 
 **Case**
 ![Raspi-Piano-Case](img/case-img.png)
