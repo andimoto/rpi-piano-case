@@ -19,7 +19,8 @@ The Pi gets mounted with hex brass standoffs.
 **Pi & Piano in the Case**
 ![Raspi-Piano](img/foto-rpi-piano-case001.jpg)
 ![Raspi-Piano](img/foto-rpi-piano-case002.jpg)
-Note: The case version in the images does not fit properlly in the case.
+Note: The case version in the images does not fit properlly.
+
 
 -----------
 **Front**
