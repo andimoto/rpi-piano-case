@@ -6,10 +6,13 @@ The Pi gets mounted with hex brass standoffs.
 
 -----------
 ## STL downloads
+
 Download:
+
 ![STL File: Case](rpi-piano-case.stl)
 
 ![STL File: Cap](rpi-piano-cap.stl)
+
 -----------
 
 **Case**
