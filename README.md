@@ -31,8 +31,10 @@ Download:
 ![Raspi-Piano](img/foto-rpi-piano-case001.jpg)
 ![Raspi-Piano](img/foto-rpi-piano-case002.jpg)
 
-Note: The case of **Rev001** in the images does not fit properlly.
-**Rev001** fits very good.
+Note: The case of **Rev001** in the images does not fit properlly. Please don't use Rev001.
+<br>
+**Rev002** fits good!
+In my 2nd print the RCA cut-out was not printed properly by the 3d print-service.
 
 
 -----------
