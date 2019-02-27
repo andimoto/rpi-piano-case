@@ -30,7 +30,9 @@ Download:
 **Pi & Piano in the Case**
 ![Raspi-Piano](img/foto-rpi-piano-case001.jpg)
 ![Raspi-Piano](img/foto-rpi-piano-case002.jpg)
+
 Note: The case of **Rev001** in the images does not fit properlly.
+**Rev001** fits very good.
 
 
 -----------
